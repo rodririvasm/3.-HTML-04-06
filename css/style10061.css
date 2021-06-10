@@ -1,0 +1,16 @@
+
+.cajasall{
+    max-width: 800px; /*ocupa la pantalla que queremos*/
+    background-color: rgb(99, 161, 172);
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.caja{
+    width: 100px;
+    height: 400px;
+    background-color: yellow;
+    margin: 10px;
+    border: 5px solid red;
+    float: left;
+}
